@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+						http://www.springframework.org/schema/aop
+						http://www.springframework.org/schema/aop/spring-aop-3.0.xsd">
+
+	<bean id="someBean" class="pl.oremczuk.aop.SomeBean"/>
+	<bean id="loggingAspect" class="pl.oremczuk.aop.LoggingAspect"/>
+	
+	<aop:config>
+		<aop:pointcut expression="@annotation(pl.oremczuk.aop.BusinessMethod)" id="businessMethods"/>
+		<aop:pointcut expression="@target(pl.oremczuk.aop.BusinessClass)" id="businessCLassMethods"/>
+		<aop:pointcut expression="@within(pl.oremczuk.aop.BusinessClass)" id="businessCLassMethods2"/>
+		<aop:pointcut expression="bean(*Bean)" id="beansWhoseNameEndsWithBean"/>
+		<aop:pointcut expression="bean(someBean)" id="beanWhoseNameisSomeBean"/>
+		<aop:pointcut expression="bean(some*)" id="beansWhoseNameStartsWithSome"/>
+		<aop:aspect ref="loggingAspect">
+			<aop:before method="logExecution" pointcut-ref="beansWhoseNameStartsWithSome"/>
+		</aop:aspect>
+	</aop:config>
+
+
+</beans>

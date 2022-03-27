@@ -1,0 +1,9 @@
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3ecd23d9
+[main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loaded 1 bean definitions from class path resource [context.xml]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'someBean'
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3ecd23d9
+[main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loaded 1 bean definitions from class path resource [context.xml]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'someBean'
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3ecd23d9
+[main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loaded 1 bean definitions from class path resource [context.xml]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'someBean'

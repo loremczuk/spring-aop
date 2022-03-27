@@ -1,0 +1,76 @@
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3ecd23d9
+[main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loaded 1 bean definitions from class path resource [context.xml]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'someBean'
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3ecd23d9
+[main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loaded 1 bean definitions from class path resource [context.xml]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'someBean'
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3ecd23d9
+[main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loaded 1 bean definitions from class path resource [context.xml]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'someBean'
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3ecd23d9
+[main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loaded 1 bean definitions from class path resource [context.xml]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'customerRepository'
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3ecd23d9
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3ecd23d9
+[main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loaded 4 bean definitions from class path resource [context.xml]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'customerRepository'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.aspectj.AspectJPointcutAdvisor#0'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method executing
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3ecd23d9
+[main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loaded 4 bean definitions from class path resource [context.xml]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'customerRepository'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.aspectj.AspectJPointcutAdvisor#0'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method executing
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3ecd23d9
+[main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loaded 4 bean definitions from class path resource [context.xml]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'customerRepository'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.aspectj.AspectJPointcutAdvisor#0'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method executing
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ec756bd
+[main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loaded 4 bean definitions from class path resource [context.xml]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'customerRepository'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.aspectj.AspectJPointcutAdvisor#0'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method executing
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7692d9cc
+[main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loaded 4 bean definitions from class path resource [context.xml]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'customerRepository'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.aspectj.AspectJPointcutAdvisor#0'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method executing
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3ecd23d9
+[main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loaded 4 bean definitions from class path resource [context.xml]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'customerRepository'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.aspectj.AspectJPointcutAdvisor#0'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method executing
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3ecd23d9
+[main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loaded 4 bean definitions from class path resource [context.xml]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'customerRepository'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.aspectj.AspectJPointcutAdvisor#0'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method executing
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3ecd23d9
+[main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loaded 4 bean definitions from class path resource [context.xml]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'customerRepository'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.aspectj.AspectJPointcutAdvisor#0'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method executing
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3ecd23d9
+[main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loaded 4 bean definitions from class path resource [context.xml]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'customerRepository'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.aspectj.AspectJPointcutAdvisor#0'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method executing

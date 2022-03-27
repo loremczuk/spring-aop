@@ -1,0 +1,639 @@
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3ecd23d9
+[main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loaded 1 bean definitions from class path resource [context.xml]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'someBean'
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3ecd23d9
+[main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loaded 1 bean definitions from class path resource [context.xml]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'someBean'
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3ecd23d9
+[main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loaded 1 bean definitions from class path resource [context.xml]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'someBean'
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3ecd23d9
+[main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loaded 1 bean definitions from class path resource [context.xml]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'customerRepository'
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3ecd23d9
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3ecd23d9
+[main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loaded 4 bean definitions from class path resource [context.xml]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'customerRepository'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.aspectj.AspectJPointcutAdvisor#0'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method executing
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3ecd23d9
+[main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loaded 4 bean definitions from class path resource [context.xml]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'customerRepository'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.aspectj.AspectJPointcutAdvisor#0'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method executing
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3ecd23d9
+[main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loaded 4 bean definitions from class path resource [context.xml]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'customerRepository'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.aspectj.AspectJPointcutAdvisor#0'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method executing
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ec756bd
+[main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loaded 4 bean definitions from class path resource [context.xml]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'customerRepository'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.aspectj.AspectJPointcutAdvisor#0'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method executing
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7692d9cc
+[main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loaded 4 bean definitions from class path resource [context.xml]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'customerRepository'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.aspectj.AspectJPointcutAdvisor#0'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method executing
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3ecd23d9
+[main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loaded 4 bean definitions from class path resource [context.xml]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'customerRepository'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.aspectj.AspectJPointcutAdvisor#0'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method executing
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3ecd23d9
+[main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loaded 4 bean definitions from class path resource [context.xml]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'customerRepository'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.aspectj.AspectJPointcutAdvisor#0'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method executing
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3ecd23d9
+[main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loaded 4 bean definitions from class path resource [context.xml]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'customerRepository'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.aspectj.AspectJPointcutAdvisor#0'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method executing
+[main] DEBUG org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3ecd23d9
+[main] DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loaded 4 bean definitions from class path resource [context.xml]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'customerRepository'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.aspectj.AspectJPointcutAdvisor#0'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method executing
+[main] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext  - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4b553d26
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\LoggingAspect.class]
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\SomeBean.class]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'appConfirguration'
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public java.lang.Object pl.oremczuk.aop.LoggingAspect.logAround(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.Throwable
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logBefore(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfter(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterReturning(java.lang.Object)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterThrowing(org.aspectj.lang.JoinPoint,java.lang.Throwable)
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'someBean'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Returning: some value
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Execution time: 36ms
+[main] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext  - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4671e53b
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\LoggingAspect.class]
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\SomeBean.class]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'appConfirguration'
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAround(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.Throwable
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logBefore(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfter(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterReturning(java.lang.Object)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterThrowing(org.aspectj.lang.JoinPoint,java.lang.Throwable)
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'someBean'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Returning: some value
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Execution time: 45ms
+[main] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext  - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4671e53b
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\LoggingAspect.class]
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\SomeBean.class]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'appConfirguration'
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAround(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.Throwable
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logBefore(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfter(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterReturning(java.lang.Object)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterThrowing(org.aspectj.lang.JoinPoint,java.lang.Throwable)
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'someBean'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Returning: some value
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Execution time: 50ms
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: throwSomeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method throwSomeException has thrown java.lang.RuntimeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: throwSomeException
+[main] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext  - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4671e53b
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\LoggingAspect.class]
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\SomeBean.class]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'appConfirguration'
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAround(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.Throwable
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logBefore(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfter(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterReturning(java.lang.Object)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterThrowing(org.aspectj.lang.JoinPoint,java.lang.Throwable)
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'someBean'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Returning: some value
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Execution time: 35ms
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: throwSomeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method throwSomeException has thrown java.lang.RuntimeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: throwSomeException
+[main] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext  - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4671e53b
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\LoggingAspect.class]
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\SomeBean.class]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'appConfirguration'
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAround(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.Throwable
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logBefore(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfter(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterReturning(java.lang.Object)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterThrowing(org.aspectj.lang.JoinPoint,java.lang.Throwable)
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'someBean'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: String pl.oremczuk.aop.SomeBean.someMethod()
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Returning: some value
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Execution time: 34ms
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: void pl.oremczuk.aop.SomeBean.throwSomeException()
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method throwSomeException has thrown java.lang.RuntimeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: throwSomeException
+[main] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext  - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4671e53b
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\LoggingAspect.class]
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\SomeBean.class]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'appConfirguration'
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAround(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.Throwable
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logBefore(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfter(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterReturning(java.lang.Object)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterThrowing(org.aspectj.lang.JoinPoint,java.lang.Throwable)
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'someBean'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Returning: some value
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Execution time: 38ms
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: throwSomeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method throwSomeException has thrown java.lang.RuntimeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: throwSomeException
+[main] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext  - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4671e53b
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\LoggingAspect.class]
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\SomeBean.class]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'appConfirguration'
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAround(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.Throwable
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logBefore(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfter(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterReturning(java.lang.Object)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterThrowing(org.aspectj.lang.JoinPoint,java.lang.Throwable)
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'someBean'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Returning: some value
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Execution time: 35ms
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: throwSomeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method throwSomeException has thrown java.lang.RuntimeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: throwSomeException
+[main] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext  - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4671e53b
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\LoggingAspect.class]
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\SomeBean.class]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'appConfirguration'
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAround(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.Throwable
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logBefore(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfter(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterReturning(java.lang.Object)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterThrowing(org.aspectj.lang.JoinPoint,java.lang.Throwable)
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'someBean'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Returning: some value
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Execution time: 23ms
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: throwSomeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method throwSomeException has thrown java.lang.RuntimeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: throwSomeException
+[main] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext  - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4671e53b
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\LoggingAspect.class]
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\SomeBean.class]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'appConfirguration'
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAround(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.Throwable
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logBefore(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfter(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterReturning(java.lang.Object)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterThrowing(org.aspectj.lang.JoinPoint,java.lang.Throwable)
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'someBean'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Returning: some value
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Execution time: 47ms
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: throwSomeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method throwSomeException has thrown java.lang.RuntimeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: throwSomeException
+[main] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext  - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4671e53b
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\LoggingAspect.class]
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\SomeBean.class]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'appConfirguration'
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAround(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.Throwable
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logBefore(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfter(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterReturning(java.lang.Object)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterThrowing(org.aspectj.lang.JoinPoint,java.lang.Throwable)
+[main] WARN  org.springframework.context.annotation.AnnotationConfigApplicationContext  - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'appConfirguration': Initialization of bean failed; nested exception is java.lang.IllegalArgumentException: error at ::0 formal unbound in pointcut 
+[main] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext  - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4671e53b
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\LoggingAspect.class]
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\SomeBean.class]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'appConfirguration'
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAround(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.Throwable
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logBefore(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfter(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterReturning(java.lang.Object)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterThrowing(org.aspectj.lang.JoinPoint,java.lang.Throwable)
+[main] WARN  org.springframework.context.annotation.AnnotationConfigApplicationContext  - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'appConfirguration': Initialization of bean failed; nested exception is java.lang.IllegalArgumentException: error at ::0 formal unbound in pointcut 
+[main] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext  - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@78e67e0a
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\LoggingAspect.class]
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\SomeBean.class]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'appConfirguration'
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAround(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.Throwable
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logBefore(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfter(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterReturning(java.lang.Object)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterThrowing(org.aspectj.lang.JoinPoint,java.lang.Throwable)
+[main] WARN  org.springframework.context.annotation.AnnotationConfigApplicationContext  - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'appConfirguration': BeanPostProcessor before instantiation of bean failed; nested exception is java.lang.IllegalStateException: Throwing argument name 'exceptio' was not bound in advice arguments
+[main] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext  - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4671e53b
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\LoggingAspect.class]
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\SomeBean.class]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'appConfirguration'
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAround(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.Throwable
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logBefore(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfter(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterReturning(java.lang.Object)
+[main] WARN  org.springframework.context.annotation.AnnotationConfigApplicationContext  - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'appConfirguration': BeanPostProcessor before instantiation of bean failed; nested exception is java.lang.IllegalStateException: Returning argument name 'returnedValu' was not bound in advice arguments
+[main] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext  - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4671e53b
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\LoggingAspect.class]
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\SomeBean.class]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'appConfirguration'
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAround(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.Throwable
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logBefore(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfter(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterReturning(java.lang.Object)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterThrowing(org.aspectj.lang.JoinPoint,java.lang.Throwable)
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'someBean'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Returning: some value
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Execution time: 34ms
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: throwSomeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method throwSomeException has thrown java.lang.RuntimeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: throwSomeException
+[main] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext  - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4671e53b
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\LoggingAspect.class]
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\SomeBean.class]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'appConfirguration'
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAround(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.Throwable
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logBefore(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfter(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterReturning(java.lang.Object)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterThrowing(org.aspectj.lang.JoinPoint,java.lang.Throwable)
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'someBean'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Returning: some value
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Execution time: 72ms
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: throwSomeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method throwSomeException has thrown java.lang.RuntimeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: throwSomeException
+[main] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext  - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4671e53b
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\LoggingAspect.class]
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\SomeBean.class]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'appConfirguration'
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAround(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.Throwable
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logBefore(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfter(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterReturning(java.lang.Object)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterThrowing(org.aspectj.lang.JoinPoint,java.lang.Throwable)
+[main] WARN  org.springframework.context.annotation.AnnotationConfigApplicationContext  - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'appConfirguration': Initialization of bean failed; nested exception is java.lang.IllegalArgumentException: Pointcut is not well-formed: expecting 'pointcut name' at character position 1
+@annotated(pl.oremczuk.aop.SomeBean)
+ ^^^^^^^^^
+
+[main] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext  - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4671e53b
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\LoggingAspect.class]
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\SomeBean.class]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'appConfirguration'
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAround(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.Throwable
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logBefore(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfter(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterReturning(java.lang.Object)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterThrowing(org.aspectj.lang.JoinPoint,java.lang.Throwable)
+[main] WARN  org.springframework.context.annotation.AnnotationConfigApplicationContext  - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'appConfirguration': Initialization of bean failed; nested exception is java.lang.IllegalArgumentException: Pointcut is not well-formed: expecting 'pointcut name' at character position 1
+@annotated(pl.oremczuk.aop.SomeBean.Component)
+ ^^^^^^^^^
+
+[main] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext  - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4671e53b
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\LoggingAspect.class]
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\SomeBean.class]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'appConfirguration'
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAround(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.Throwable
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logBefore(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfter(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterReturning(java.lang.Object)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterThrowing(org.aspectj.lang.JoinPoint,java.lang.Throwable)
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'someBean'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Returning: some value
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Execution time: 48ms
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: throwSomeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method throwSomeException has thrown java.lang.RuntimeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: throwSomeException
+[main] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext  - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4671e53b
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\LoggingAspect.class]
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\SomeBean.class]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'appConfirguration'
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAround(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.Throwable
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logBefore(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfter(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterReturning(java.lang.Object)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterThrowing(org.aspectj.lang.JoinPoint,java.lang.Throwable)
+[main] WARN  org.springframework.context.annotation.AnnotationConfigApplicationContext  - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'appConfirguration': Initialization of bean failed; nested exception is java.lang.IllegalArgumentException: error at ::0 can't find referenced pointcut annotatedMethods
+[main] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext  - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4671e53b
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\LoggingAspect.class]
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\SomeBean.class]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'appConfirguration'
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAround(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.Throwable
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logBefore(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfter(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterReturning(java.lang.Object)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterThrowing(org.aspectj.lang.JoinPoint,java.lang.Throwable)
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'someBean'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Returning: some value
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Execution time: 42ms
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method throwSomeException has thrown java.lang.RuntimeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: throwSomeException
+[main] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext  - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4671e53b
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\LoggingAspect.class]
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\SomeBean.class]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'appConfirguration'
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAround(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.Throwable
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logBefore(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfter(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterReturning(java.lang.Object)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterThrowing(org.aspectj.lang.JoinPoint,java.lang.Throwable)
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'someBean'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Returning: some value
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Execution time: 71ms
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: throwSomeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method throwSomeException has thrown java.lang.RuntimeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: throwSomeException
+[main] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext  - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4671e53b
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\LoggingAspect.class]
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\SomeBean.class]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'appConfirguration'
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAround(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.Throwable
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logBefore(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfter(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterReturning(java.lang.Object)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterThrowing(org.aspectj.lang.JoinPoint,java.lang.Throwable)
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'someBean'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Returning: some value
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Execution time: 25ms
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: throwSomeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method throwSomeException has thrown java.lang.RuntimeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: throwSomeException
+[main] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext  - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4671e53b
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\LoggingAspect.class]
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\SomeBean.class]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'appConfirguration'
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAround(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.Throwable
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logBefore(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfter(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterReturning(java.lang.Object)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterThrowing(org.aspectj.lang.JoinPoint,java.lang.Throwable)
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'someBean'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Returning: some value
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Execution time: 34ms
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: throwSomeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method throwSomeException has thrown java.lang.RuntimeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: throwSomeException
+[main] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext  - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4671e53b
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\LoggingAspect.class]
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\SomeBean.class]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'appConfirguration'
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAround(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.Throwable
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logBefore(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfter(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterReturning(java.lang.Object)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterThrowing(org.aspectj.lang.JoinPoint,java.lang.Throwable)
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'someBean'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Returning: some value
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Execution time: 35ms
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: throwSomeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method throwSomeException has thrown java.lang.RuntimeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: throwSomeException
+[main] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext  - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4671e53b
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\LoggingAspect.class]
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\SomeBean.class]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'appConfirguration'
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAround(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.Throwable
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logBefore(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfter(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterReturning(java.lang.Object)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterThrowing(org.aspectj.lang.JoinPoint,java.lang.Throwable)
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'someBean'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Returning: some value
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Execution time: 30ms
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: throwSomeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method throwSomeException has thrown java.lang.RuntimeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: throwSomeException
+[main] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext  - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4671e53b
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\LoggingAspect.class]
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\SomeBean.class]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'appConfirguration'
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAround(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.Throwable
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logBefore(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfter(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterReturning(java.lang.Object)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterThrowing(org.aspectj.lang.JoinPoint,java.lang.Throwable)
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'someBean'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Returning: some value
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Execution time: 32ms
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: throwSomeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method throwSomeException has thrown java.lang.RuntimeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: throwSomeException
+[main] DEBUG org.springframework.context.annotation.AnnotationConfigApplicationContext  - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4671e53b
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\LoggingAspect.class]
+[main] DEBUG org.springframework.context.annotation.ClassPathBeanDefinitionScanner  - Identified candidate component class: file [C:\Spring AOP Projects\Annotated-AOP\target\classes\pl\oremczuk\aop\SomeBean.class]
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'appConfirguration'
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAround(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.Throwable
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logBefore(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfter(org.aspectj.lang.JoinPoint)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterReturning(java.lang.Object)
+[main] DEBUG org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory  - Found AspectJ method: public void pl.oremczuk.aop.LoggingAspect.logAfterThrowing(org.aspectj.lang.JoinPoint,java.lang.Throwable)
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'loggingAspect'
+[main] DEBUG org.springframework.beans.factory.support.DefaultListableBeanFactory  - Creating shared instance of singleton bean 'someBean'
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Returning: some value
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: someMethod
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Execution time: 32ms
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Before executing: throwSomeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - Method throwSomeException has thrown java.lang.RuntimeException
+[main] INFO  pl.oremczuk.aop.LoggingAspect  - After executing: throwSomeException

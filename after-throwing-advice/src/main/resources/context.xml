@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+						http://www.springframework.org/schema/aop
+						http://www.springframework.org/schema/aop/spring-aop-3.0.xsd">
+
+	<bean id="customerRepository"
+		class="pl.oremczuk.aop.CustomerRepositoryImpl" />
+
+	<bean id="loggingAspect" class="pl.oremczuk.aop.LoggingAspect" />
+	
+	<bean id="customer" class="pl.oremczuk.aop.Customer">
+	<constructor-arg value="Dżordż"/>
+	</bean>
+	<bean id="customer2" class="pl.oremczuk.aop.Customer">
+	<constructor-arg><null/></constructor-arg>
+	</bean>
+
+	<aop:config>
+		<aop:pointcut expression="execution(* pl.oremczuk.aop.CustomerRepository.get* (..))" id="allGettersFromCustomerRepository"/>
+		<aop:pointcut expression="execution(* pl.oremczuk.aop.CustomerRepository.add* (..))" id="allAddersFromCustomerRepository"/>
+		
+		<aop:aspect ref="loggingAspect">
+			<aop:before method="logExecution"
+				pointcut-ref="allGettersFromCustomerRepository" />
+			<aop:after-returning method="warnIfNull" pointcut-ref="allGettersFromCustomerRepository" returning="returnedValue"/>
+			<aop:after-throwing method="serveException" pointcut-ref="allAddersFromCustomerRepository" throwing="exception"/>
+		</aop:aspect>
+	</aop:config>
+
+</beans>
